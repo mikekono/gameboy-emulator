@@ -8,9 +8,9 @@ To build the source code, you need SDL2 installed. After taking care of that, ju
 
 To run, execute ./gameboy.exe <romfile>. 
 
-Tetris
+Tetris   
 ![alt tag](http://i.imgur.com/4ujSnAN.gif)
 
 
-Dr. Mario
+Dr. Mario   
 ![alt tag](http://i.imgur.com/XFbtfDE.gif)
